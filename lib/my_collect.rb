@@ -1,7 +1,7 @@
 def my_collection(collection)
-    element < 
+    element < 0
   new_collection=[] 
-0 
+ 
   while element < collection.length
   new_collection << yield{collection[element]}
 end
